@@ -1,0 +1,50 @@
+{
+  "leaf_blight": {
+    "display_name": "Leaf Blight",
+    "organic": {
+      "product": "Neem oil solution (3% concentration)",
+      "dose_per_acre_l": 2.0,
+      "frequency": "Every 7 days, 3 applications"
+    },
+    "chemical": {
+      "product": "Mancozeb 75% WP",
+      "dose_per_acre_kg": 0.6,
+      "frequency": "Every 10 days, 2 applications"
+    },
+    "notes": "Remove and destroy severely infected leaves before spraying. Avoid overhead irrigation."
+  },
+  "powdery_mildew": {
+    "display_name": "Powdery Mildew",
+    "organic": {
+      "product": "Sulfur dust / Milk spray (1:9 milk-water ratio)",
+      "dose_per_acre_kg": 4.0,
+      "frequency": "Every 10 days, 2-3 applications"
+    },
+    "chemical": {
+      "product": "Hexaconazole 5% EC",
+      "dose_per_acre_l": 0.4,
+      "frequency": "Every 14 days, 2 applications"
+    },
+    "notes": "Improve air circulation between plants; avoid excess nitrogen fertilizer."
+  },
+  "bacterial_spot": {
+    "display_name": "Bacterial Leaf Spot",
+    "organic": {
+      "product": "Copper oxychloride (organic-approved formulation)",
+      "dose_per_acre_kg": 1.0,
+      "frequency": "Every 7 days, 3 applications"
+    },
+    "chemical": {
+      "product": "Streptocycline + Copper oxychloride combination",
+      "dose_per_acre_g": 100,
+      "frequency": "Every 10 days, 2 applications"
+    },
+    "notes": "Avoid working in fields when leaves are wet; disinfect tools between plants."
+  },
+  "healthy": {
+    "display_name": "No Disease Detected",
+    "organic": null,
+    "chemical": null,
+    "notes": "Crop appears healthy. Continue routine monitoring every 5-7 days."
+  }
+}

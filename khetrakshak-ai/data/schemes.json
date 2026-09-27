@@ -1,0 +1,23 @@
+[
+  {
+    "id": "pmfby",
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "applies_to_diseases": ["leaf_blight", "powdery_mildew", "bacterial_spot"],
+    "description": "Crop insurance scheme covering yield loss due to pests and disease. Claim must be filed within 72 hours of noticing damage.",
+    "how_to_apply": "Contact your nearest Common Service Centre (CSC) or bank branch, or apply online at pmfby.gov.in"
+  },
+  {
+    "id": "sms_advisory",
+    "name": "Kisan Call Centre / SMS Advisory",
+    "applies_to_diseases": ["leaf_blight", "powdery_mildew", "bacterial_spot", "healthy"],
+    "description": "Free agronomic advisory service; can validate an on-device diagnosis with a human expert.",
+    "how_to_apply": "Call 1800-180-1551 (toll-free) or register for SMS advisories via your local KVK."
+  },
+  {
+    "id": "input_subsidy",
+    "name": "State Input Subsidy for Plant Protection Chemicals",
+    "applies_to_diseases": ["leaf_blight", "powdery_mildew", "bacterial_spot"],
+    "description": "Partial subsidy on approved fungicides/pesticides purchased through registered dealers.",
+    "how_to_apply": "Available through the state Department of Agriculture portal; requires land record (7/12 extract or equivalent)."
+  }
+]
